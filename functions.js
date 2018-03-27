@@ -1,6 +1,4 @@
 // Jquery functions a réutiliser
-// - Cacher class : 16
-
 //- protéger $
 
     (function($) {
